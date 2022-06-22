@@ -5,6 +5,10 @@
 
 ### Computational Mechanics
 - [ ] [Computational Mechanics](https://github.com/holdeepang/computational-mechanics)
+- [ ] [CFD Machine Learning Lecture](https://github.com/holdeepang/ml-cfd-lecture)
+- [ ] [Computational Statistical Mechanics Tutorials](https://github.com/holdeepang/tutorials)
+- [ ] [Computational Solid Mechanics FEA](https://github.com/holdeepang/feacourse)
+- [ ] [Computing for Engineering](https://github.com/holdeepang/EngComp)
 
 ### Numerical Methods
 - [ ] [Intro to numerical methods](https://github.com/holdeepang/intro-numerical-methods)
