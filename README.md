@@ -1,5 +1,5 @@
 ### Jupyter
-- [ ] [Jupyterlab Tutorial](http://justinbois.github.io/bootcamp/2020_fsri/lessons/l01_welcome.html) 
+- [ ] [Jupyterlab Tutorial](http://justinbois.github.io/bootcamp/2020_fsri/index.html)) 
 - [ ] [Learn Jupyter Lab](https://github.com/holdeepang/learn-jupyterlab)
 - [ ] [Learn Jupyter](https://github.com/holdeepang/learn_jupyter)
 
