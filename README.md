@@ -26,3 +26,6 @@
 ### Fortran
 - [ ] [Fortran Tutorialspoint](https://www.tutorialspoint.com/fortran/index.htm)
 - [x] [Fortran Quickstart Tutorial](https://fortran-lang.org/learn/quickstart)
+
+### Python
+- [ ] [Python Format](https://pyformat.info/)
