@@ -6,15 +6,14 @@
 ### Computational Mechanics
 - [ ] [Computational Mechanics](https://github.com/holdeepang/computational-mechanics)
 - [ ] [CFD Machine Learning Lecture](https://github.com/holdeepang/ml-cfd-lecture)
-- [ ] [Computational Statistical Mechanics Tutorials](https://github.com/holdeepang/tutorials)
 - [ ] [Computational Solid Mechanics FEA](https://github.com/holdeepang/feacourse)
 - [ ] [Computing for Engineering](https://github.com/holdeepang/EngComp)
 
 ### Numerical Methods
 - [ ] [Intro to numerical methods](https://github.com/holdeepang/intro-numerical-methods)
 - [ ] [Numerical MOOC](https://github.com/holdeepang/numerical-mooc)
-- [ ] [Pytorch Differential Equation](https://github.com/holdeepang/torchdyn)
-- [ ] [C++ Numerical Solver](https://github.com/holdeepang/CppNumericalSolvers)
+- [x] [Pytorch Differential Equation](https://github.com/holdeepang/torchdyn)
+- [x] [C++ Numerical Solver](https://github.com/holdeepang/CppNumericalSolvers)
 
 ### C++
 - [x] [Techstudy C++ Examples and Solutions](https://techstudy.org/CplusplusLanguage/cpp-programming-example-and-solutions#:~:text=List%20of%20C%2B%2B%20language%20Pointer%20Exercise%201%20Write,concatenate%20two%20strings%20using%20pointer%20More%20items...%20)
@@ -26,4 +25,4 @@
 
 ### Fortran
 - [ ] [Fortran Tutorialspoint](https://www.tutorialspoint.com/fortran/index.htm)
-- [ ] [Fortran Quickstart Tutorial](https://fortran-lang.org/learn/quickstart)
+- [x] [Fortran Quickstart Tutorial](https://fortran-lang.org/learn/quickstart)
