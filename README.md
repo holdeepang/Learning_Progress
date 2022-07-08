@@ -2,7 +2,8 @@
 - [x] [Wincaps 3](https://youtu.be/uGWB3s4mA1k) (Trial License: WCJZ-427A-4SFU-5QMX)
 - [x] [QT Designer](https://www.techwithtim.net/tutorials/pyqt5-tutorial/basic-gui-application/)
 - [ ] [STM32 Cube ide](https://01001000.xyz/2020-05-11-Tutorial-STM32CubeIDE-Getting-started/)
-- [ ] [Easy EDA](https://u.easyeda.com/account/user/projects/all)
+- [ ] [Easy EDA PCB](https://u.easyeda.com/account/user/projects/all)
+- [ ] [VeeCAD Stripboard](https://veecad.com/downloads.html)
 
 ### Jupyter
 - [ ] [Jupyterlab Tutorial](http://justinbois.github.io/bootcamp/2020_fsri/index.html)
