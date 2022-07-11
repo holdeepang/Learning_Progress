@@ -4,6 +4,7 @@
 - [ ] [STM32 Cube ide](https://01001000.xyz/2020-05-11-Tutorial-STM32CubeIDE-Getting-started/)
 - [ ] [Easy EDA PCB](https://u.easyeda.com/account/user/projects/all)
 - [ ] [VeeCAD Stripboard](https://veecad.com/downloads.html)
+- [ ] Dremel Rotary Tool
 
 ### Jupyter
 - [ ] [Jupyterlab Tutorial](http://justinbois.github.io/bootcamp/2020_fsri/index.html)
